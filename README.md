@@ -4,3 +4,5 @@ over the next little bit. Let's hope I stick with it.
 
 Todays Topic:
 Data-types.
+
+
